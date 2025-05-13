@@ -1,6 +1,6 @@
-# Bike Share Data Analysis Project
+# `Bike Share Data Analysis Project`
 
-![Dashboard](garbage\Dashboard.png)
+![Dashboard](https://github.com/Bhargav-Barewar/end-to-end-bike-shop-data-analysis/blob/main/Images/Dashboard.png)
 
 ## Project Overview
 
